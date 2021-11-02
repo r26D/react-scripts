@@ -1,5 +1,11 @@
 # react-scripts
 
+
+This is a fork of the package react-scripts from create-react-app v4.0.3
+We forked so we could change the babel-loader version to bring it up to
+date with other packages we are using
+
+
 This package includes scripts and configuration used by [Create React App](https://github.com/facebook/create-react-app).<br>
 Please refer to its documentation:
 
